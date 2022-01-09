@@ -1,0 +1,13 @@
+.container{
+    width: 150px;
+    height: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid #565c5c;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+}
